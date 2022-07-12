@@ -1,0 +1,21 @@
+{
+  "name": "myne-sdk",
+  "version": "0.1.0",
+  "description": "Myne SDK",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/.bin/tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mynesystems/myne-sdk-js.git"
+  },
+  "author": "Rémi Tod <remi.tod@myne.systems>",
+  "license": "Apache-2.0",
+  "homepage": "https://developers.myne.systems",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
